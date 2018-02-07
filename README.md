@@ -1,2 +1,3 @@
 # hello-world
 Test project to learn the GitHub-way...
+Java is a cool language and a hot drink!
